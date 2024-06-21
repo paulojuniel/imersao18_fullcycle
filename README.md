@@ -1,8 +1,8 @@
 # Tecnologias utilizadas
-Go
-Kong API Gateway
-Next.js
-Docker
+-Go
+-Kong API Gateway
+-Next.js
+-Docker
 
 # Imersão Fullcycle 18 - Sistema de Venda de Ingressos
 
